@@ -14,6 +14,7 @@ The example uses the data set from [http://nlp.stanford.edu/IR-book/html/htmledi
 
 ## Overview
 See the JUnit test file src/test/java/com/santacruzintegration/spark/NaiveBayesStanfordExampleTest.java
+<font color='red'>The unit test simply runs the code. It does not have any asserts or other invarient tests. I.E. all tests will always pass even thou the results do not match the published results </font>
 
 ## Running the code.
 ```
